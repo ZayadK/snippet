@@ -1,0 +1,174 @@
+pageInfo:
+  title: Portail Zayad
+  description: 
+  navLinks:
+    - title: GitHub
+      path: https://github.com/Lissy93/dashy
+appConfig:
+  theme: dashy-docs
+  layout: horizontal
+  iconSize: medium
+  language: fr
+sections:
+  - name: Applications
+    icon: fas fa-rocket
+    items:
+      - title: Wiki
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://wiki.zayad.fr
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: Portail
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://portail.zayad.fr
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: Notifications
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://notifications.zayad.fr
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: Monitoring
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://kuma.zayad.fr
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: Transfert
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://lufi.zayad.fr
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: Web stats
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://stats.zayad.fr
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: Paste
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://paste.zayad.fr
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: PhpMyAdmin
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://pma.app.zayad.fr
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: Webmail
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://webmail.zayad.fr
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: Webmail 2
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://mailcow.zayad.fr/webmail
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: PiHole
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://proxy.zayad.fr
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+  - name: Provider
+    icon: fas fa-rocket
+    items:
+      - title: IONOS
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://portail.zayad.fr
+        target: newtab
+      - title: Contabo
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://notifications.zayad.fr
+        target: newtab
+      - title: OVH
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://kuma.zayad.fr
+        target: newtab
+      - title: Produhost V2
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://v2.produhost.net/panel/login
+        target: newtab
+  - name: Manager
+    icon: fas fa-rocket
+    items:
+      - title: Google domains
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://domains.google.com/registrar/zayad.fr/dns
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: Hera Freebox
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://heracles.freeboxos.fr:12948/login.php
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: Masha Freebox
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://masha.freeboxos.fr:12948/login.php
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+      - title: MailCow
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://mailcow.zayad.fr/
+        target: newtab
+        statusCheck: true
+        statusCheckAllowInsecure: true
+  - name: Banque
+    icon: fas fa-rocket
+    items:
+      - title: Crédit Agricole
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://wiki.zayad.fr
+        target: newtab   
+      - title: Boursorama
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://www.boursorama.com/
+        target: newtab 
+  - name: Administration
+    icon: fas fa-rocket
+    items:
+      - title: Allegro Musique
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: hhttps://www.allegromusique.fr/
+        target: newtab
+      - title: CAF
+        description: ''
+        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
+        url: https://caf.fr/
+        target: newtab 
+pages:
+  - name: ''
